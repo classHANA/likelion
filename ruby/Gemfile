@@ -2,6 +2,13 @@
 # 파일명은 Gemfile
 
 source 'https://rubygems.org'
+
+# Upgrade irb
+gem 'pry'
+
+# 이쁘게 찍기
+gem 'awesome_print'
+
 # 브라우저 실행
 gem 'launchy'
 
